@@ -31,6 +31,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-13 22:55:37 +0000",
+      "minecraft:taiga": "2024-12-13 22:55:16 +0000",
       "minecraft:birch_forest": "2024-12-13 22:49:03 +0000",
       "minecraft:beach": "2024-12-13 04:36:09 +0000",
       "minecraft:river": "2024-12-13 04:37:44 +0000",
@@ -39,7 +41,9 @@
       "minecraft:dripstone_caves": "2024-12-13 04:40:14 +0000",
       "minecraft:forest": "2024-12-13 04:37:58 +0000",
       "minecraft:ocean": "2024-12-13 22:47:59 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-13 23:01:35 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-13 22:48:38 +0000",
+      "minecraft:meadow": "2024-12-13 23:10:44 +0000",
       "minecraft:savanna": "2024-12-13 04:30:07 +0000",
       "minecraft:plains": "2024-12-13 04:52:43 +0000"
     },
@@ -1811,15 +1815,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-12-13 23:05:20 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:combs_and_wax/comb_cutter_tool": {
+    "criteria": {
+      "comb_cutter_tool": "2024-12-13 22:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2024-12-13 23:05:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-13 22:56:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-13 22:56:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-13 22:56:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-13 22:56:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:06:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-13 22:47:49 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-13 23:05:09 +0000"
+    },
+    "done": true
+  },
   "taxov:advancement_pirate": {
     "criteria": {
       "advancement_pirate_0": "2024-12-13 22:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-13 22:56:03 +0000"
     },
     "done": true
   },
@@ -1841,6 +1905,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-13 23:06:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-13 22:47:49 +0000"
@@ -1853,9 +1923,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2024-12-13 22:57:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-13 22:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:06:48 +0000"
     },
     "done": true
   },
@@ -1865,15 +1947,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-13 23:05:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-13 22:47:49 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-13 22:56:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:06:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-12-13 23:05:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-13 22:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-13 22:57:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-13 22:59:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-13 23:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:06:48 +0000"
+    },
+    "done": true
+  },
   "taxov:advancement_marine_tool": {
     "criteria": {
       "advancement_marine_tool_0": "2024-12-13 22:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-13 23:05:16 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2024-12-13 23:03:48 +0000"
     },
     "done": true
   },
@@ -1895,15 +2043,111 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:06:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-13 22:56:03 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-13 22:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-13 22:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-13 22:56:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-13 22:56:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2024-12-13 22:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2024-12-13 22:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:06:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
     "criteria": {
       "has_mangrove_roots": "2024-12-13 22:44:11 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:06:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:06:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-13 22:59:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-12-13 22:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-13 22:57:51 +0000"
+    },
+    "done": true
+  },
   "taxov:advancement_marine": {
     "criteria": {
       "advancement_marine_0": "2024-12-13 22:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-13 22:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-13 23:05:09 +0000"
     },
     "done": true
   },
@@ -1916,6 +2160,24 @@
   "taxov:advancement_ocean": {
     "criteria": {
       "advancement_ocean_0": "2024-12-13 22:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:06:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2024-12-13 23:05:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2024-12-13 22:57:51 +0000"
     },
     "done": true
   },

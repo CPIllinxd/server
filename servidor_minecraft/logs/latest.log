@@ -361,3 +361,113 @@ com.google.gson.JsonSyntaxException: Unknown item 'taxov:pirate_block'
 [13Dec2024 22:52:48.974] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-343, y=24, z=6181}
 [13Dec2024 22:53:32.326] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-332, y=-26, z=6213}
 [13Dec2024 22:53:32.326] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-333, y=-26, z=6213}
+[13Dec2024 22:54:05.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[13Dec2024 22:54:21.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey fell from a high place
+[13Dec2024 22:59:59.499] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-443, y=-27, z=-123}
+[13Dec2024 22:59:59.499] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-442, y=-27, z=-123}
+[13Dec2024 23:00:33.241] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-286, y=-1, z=5533}
+[13Dec2024 23:00:33.242] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-285, y=-1, z=5533}
+[13Dec2024 23:00:33.242] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-283, y=-1, z=5534}
+[13Dec2024 23:01:01.033] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-334, y=-30, z=5436}
+[13Dec2024 23:02:05.513] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-63, y=-50, z=5295}
+[13Dec2024 23:02:14.098] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-338, y=-18, z=-575}
+[13Dec2024 23:02:14.099] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-338, y=-18, z=-574}
+[13Dec2024 23:02:14.099] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-338, y=-18, z=-573}
+[13Dec2024 23:02:17.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-221, y=60, z=5163} BlockPos{x=-221, y=60, z=5164}
+[13Dec2024 23:02:20.835] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[13Dec2024 23:02:20.837] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[13Dec2024 23:02:27.176] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-59, y=-16, z=5378}
+[13Dec2024 23:03:16.664] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-293, y=-49, z=4800}
+[13Dec2024 23:03:26.654] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-381, y=23, z=4719}
+[13Dec2024 23:03:30.605] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-353, y=-53, z=4692}
+[13Dec2024 23:03:30.606] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-354, y=-53, z=4692}
+[13Dec2024 23:03:38.400] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-456, y=-17, z=4657}
+[13Dec2024 23:03:47.594] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-352, y=29, z=4575}
+[13Dec2024 23:03:47.595] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-354, y=29, z=4575}
+[13Dec2024 23:03:48.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr.C4BO has made the advancement [Super Creeps]
+[13Dec2024 23:03:48.958] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-334, y=-14, z=4571}
+[13Dec2024 23:05:10.253] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-326, y=-11, z=3983}
+[13Dec2024 23:05:10.254] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-325, y=-11, z=3983}
+[13Dec2024 23:05:10.254] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-324, y=-11, z=3983}
+[13Dec2024 23:05:12.770] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tuforwi[/127.141.214.252:38193] logged in with entity id 43885 at (-707.3575039338941, 76.62124789759658, -1434.955876181311)
+[13Dec2024 23:05:12.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tuforwi joined the game
+[13Dec2024 23:05:14.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pierooo moved too quickly! 1.7241478009775904,0.0,-10.045104539437489
+[13Dec2024 23:05:22.744] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-840, y=-9, z=-1500}
+[13Dec2024 23:05:35.443] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-678, y=0, z=-1623}
+[13Dec2024 23:05:41.205] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-18, y=20, z=3887}
+[13Dec2024 23:05:41.206] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-19, y=20, z=3887}
+[13Dec2024 23:05:41.207] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-19, y=20, z=3887}
+[13Dec2024 23:05:41.207] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-18, y=20, z=3887}
+[13Dec2024 23:05:41.207] [Worker-Main-10/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-18, 20, 3887)
+[13Dec2024 23:05:43.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tuforwi has made the advancement [The Lighthouse]
+[13Dec2024 23:05:45.899] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-8, y=18, z=3887}
+[13Dec2024 23:05:45.899] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-8, y=20, z=3883}
+[13Dec2024 23:05:45.900] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-7, y=18, z=3887}
+[13Dec2024 23:05:45.900] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-7, y=20, z=3883}
+[13Dec2024 23:05:45.900] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-7, y=18, z=3887}
+[13Dec2024 23:05:45.900] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-8, y=18, z=3887}
+[13Dec2024 23:05:45.900] [Worker-Main-10/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-8, 18, 3887)
+[13Dec2024 23:05:45.900] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-7, y=20, z=3883}
+[13Dec2024 23:05:45.901] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-8, y=20, z=3883}
+[13Dec2024 23:05:45.901] [Worker-Main-10/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-8, 20, 3883)
+[13Dec2024 23:05:54.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wild (vehicle of tuforwi) moved too quickly! 2.1226036417228897,-7.994269568295678,-7.049441075508184
+[13Dec2024 23:05:54.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wild (vehicle of tuforwi) moved too quickly! 2.2717139256227483,-8.964193016370544,-7.454541748867086
+[13Dec2024 23:05:54.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wild (vehicle of tuforwi) moved too quickly! 2.426233324033717,-9.972539515526833,-7.859820835968549
+[13Dec2024 23:05:54.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wild (vehicle of tuforwi) moved too quickly! 2.585466799112737,-11.017787513659925,-8.265312593841372
+[13Dec2024 23:05:54.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wild (vehicle of tuforwi) moved too quickly! 2.748493583377922,-12.098475712100097,-8.67119142550132
+[13Dec2024 23:05:54.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wild (vehicle of tuforwi) moved too quickly! 2.914644030783961,-13.213200679577639,-9.07753763695473
+[13Dec2024 23:05:54.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wild (vehicle of tuforwi) moved too quickly! 3.0834652007723093,-14.36061456067489,-9.48435425707953
+[13Dec2024 23:05:54.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wild (vehicle of tuforwi) moved too quickly! 3.254668121228235,-15.539422875023533,-9.891590387669567
+[13Dec2024 23:05:54.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wild (vehicle of tuforwi) moved too quickly! 3.4279609972458616,-16.748382403653636,-10.299216461664173
+[13Dec2024 23:05:54.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wild (vehicle of tuforwi) moved too quickly! 3.603079331782112,-17.98629915904324,-10.707208059216327
+[13Dec2024 23:05:54.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wild (vehicle of tuforwi) moved too quickly! 1.8002284829816517,-12.1876729742944,-4.471002905252135
+[13Dec2024 23:05:54.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wild (vehicle of tuforwi) moved too quickly! 1.9783539547060514,-13.480109475809641,-4.87964473507509
+[13Dec2024 23:06:18.981] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1, y=-46, z=3592}
+[13Dec2024 23:06:18.981] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1, y=-46, z=3594}
+[13Dec2024 23:06:36.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sr.C4BO> 210 100 -3000
+[13Dec2024 23:06:44.748] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-78, y=22, z=3446}
+[13Dec2024 23:07:27.990] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.25166852785214644
+[13Dec2024 23:07:28.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.9875024577133834
+[13Dec2024 23:07:28.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.9455209247287777
+[13Dec2024 23:07:36.907] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-100, y=-22, z=3214}
+[13Dec2024 23:07:46.356] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=204, y=-22, z=3535}
+[13Dec2024 23:08:21.093] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-524, y=-12, z=-2224}
+[13Dec2024 23:08:21.094] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-525, y=-12, z=-2224}
+[13Dec2024 23:08:23.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wild (vehicle of tuforwi) moved too quickly! 1.4336877531533787,0.9376888838456381,-10.945860709251974
+[13Dec2024 23:08:23.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wild (vehicle of tuforwi) moved too quickly! 1.5654617961720874,1.3576888707326162,-12.172406921163656
+[13Dec2024 23:08:23.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wild (vehicle of tuforwi) moved too quickly! 1.6872524611679296,1.7776888576195944,-13.437687590448832
+[13Dec2024 23:08:23.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wild (vehicle of tuforwi) moved too quickly! 1.8001399493863914,2.1976888445065725,-14.737511649815133
+[13Dec2024 23:08:43.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pierooo has made the advancement [The Lighthouse]
+[13Dec2024 23:08:58.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tuforwi moved too quickly! 6.6175974529821815,6.985609537281277,5.0833933533663185
+[13Dec2024 23:08:58.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tuforwi moved wrongly!
+[13Dec2024 23:09:00.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tuforwi moved too quickly! 6.6175974529821815,7.185609584964993,5.099882460936442
+[13Dec2024 23:09:01.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tuforwi moved too quickly! 6.6175974529821815,6.985609537281277,4.306957360277011
+[13Dec2024 23:09:01.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tuforwi moved too quickly! 6.740614862229108,7.108777583469632,4.549645121196136
+[13Dec2024 23:09:02.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tuforwi moved too quickly! 6.9925974529821815,6.604564609854862,5.410536337767098
+[13Dec2024 23:09:03.559] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-613, y=29, z=-2194}
+[13Dec2024 23:09:03.559] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-611, y=29, z=-2194}
+[13Dec2024 23:09:05.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tuforwi moved too quickly! 7.011624814049583,2.16560948482919,10.546498100754889
+[13Dec2024 23:09:13.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6680ms or 133 ticks behind
+[13Dec2024 23:09:43.720] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-30, y=-28, z=3071}
+[13Dec2024 23:09:43.720] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-30, y=-28, z=3070}
+[13Dec2024 23:10:21.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tuforwi moved too quickly! 184.40314150428858,28.345608448900464,-14.553285540060642
+[13Dec2024 23:10:29.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of Sr.C4BO) moved too quickly! -12.716011573617479,0.0,-11.899999976158142
+[13Dec2024 23:10:29.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of Sr.C4BO) moved too quickly! -12.80968355769349,0.0,-11.899999976158142
+[13Dec2024 23:10:29.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of Sr.C4BO) moved too quickly! -12.808071850283241,0.0,-11.899999976158142
+[13Dec2024 23:10:29.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of Sr.C4BO) moved too quickly! -12.75271820119535,0.0,-11.899999976158142
+[13Dec2024 23:10:29.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of Sr.C4BO) moved too quickly! -12.736020657896319,0.0,-11.899999976158142
+[13Dec2024 23:10:29.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of Sr.C4BO) moved too quickly! -12.737759569640573,0.0,-11.899999976158142
+[13Dec2024 23:10:31.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of Sr.C4BO) moved too quickly! -13.33904189665654,0.0,-10.899999976158142
+[13Dec2024 23:10:31.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of Sr.C4BO) moved too quickly! -13.227280127099334,0.0,-10.899999976158142
+[13Dec2024 23:10:31.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of Sr.C4BO) moved too quickly! -13.158788044282872,0.0,-10.899999976158142
+[13Dec2024 23:10:31.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of Sr.C4BO) moved too quickly! -13.112028188843269,0.0,-10.899999976158142
+[13Dec2024 23:10:31.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of Sr.C4BO) moved too quickly! -13.003353772501328,0.0,-10.899999976158142
+[13Dec2024 23:10:31.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of Sr.C4BO) moved too quickly! -12.861550109063714,0.0,-10.899999976158142
+[13Dec2024 23:10:33.854] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tuforwi lost connection: Disconnected
+[13Dec2024 23:10:33.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tuforwi left the game
+[13Dec2024 23:10:39.558] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tuforwi[/127.141.214.252:57667] logged in with entity id 51605 at (-407.3925974291403, 70.31439046271873, -2296.609760392867)
+[13Dec2024 23:10:39.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tuforwi joined the game
+[13Dec2024 23:10:40.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of Sr.C4BO) moved too quickly! -6.015911118835149,-1.2269759649771004,-8.241001884781781
+[13Dec2024 23:11:26.246] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-62, y=-45, z=2607}
+[13Dec2024 23:11:26.247] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-60, y=-45, z=2607}
+[13Dec2024 23:12:25.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tuforwi has made the advancement [Super Creeps]

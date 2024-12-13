@@ -2447,6 +2447,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-13 23:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-13 23:07:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2024-12-13 22:46:33 +0000"
@@ -2468,6 +2480,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2024-12-13 22:45:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-13 23:07:18 +0000"
     },
     "done": true
   },
