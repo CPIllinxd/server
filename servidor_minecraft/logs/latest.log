@@ -471,3 +471,74 @@ com.google.gson.JsonSyntaxException: Unknown item 'taxov:pirate_block'
 [13Dec2024 23:11:26.246] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-62, y=-45, z=2607}
 [13Dec2024 23:11:26.247] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-60, y=-45, z=2607}
 [13Dec2024 23:12:25.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tuforwi has made the advancement [Super Creeps]
+[13Dec2024 23:14:33.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[13Dec2024 23:14:33.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[13Dec2024 23:14:34.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pierooo has made the advancement [Ice Maze]
+[13Dec2024 23:14:38.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[13Dec2024 23:14:58.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5123ms or 102 ticks behind
+[13Dec2024 23:16:01.785] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/51271, l='ServerLevel[world]', x=97.85, y=161.01, z=-2770.08] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 23:16:03.740] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/54432, l='ServerLevel[world]', x=103.56, y=161.01, z=-2767.38] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 23:16:05.185] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/46342, l='ServerLevel[world]', x=103.07, y=161.01, z=-2767.65] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 23:16:43.535] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/59689, l='ServerLevel[world]', x=103.52, y=161.01, z=-2765.08] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 23:16:55.434] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/46341, l='ServerLevel[world]', x=102.67, y=161.01, z=-2770.88] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 23:17:01.335] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/50669, l='ServerLevel[world]', x=97.42, y=161.01, z=-2778.66] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 23:17:02.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pierooo has made the advancement [Voluntary Exile]
+[13Dec2024 23:17:03.849] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/50293, l='ServerLevel[world]', x=98.63, y=161.01, z=-2776.28] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 23:17:08.836] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/50292, l='ServerLevel[world]', x=94.88, y=161.01, z=-2777.66] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 23:17:11.145] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-379, y=8, z=-48}
+[13Dec2024 23:17:16.690] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/50670, l='ServerLevel[world]', x=102.70, y=161.01, z=-2785.12] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 23:17:33.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wizzel was blown up by Creeper
+[13Dec2024 23:17:43.944] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-74, y=70, z=-50}
+[13Dec2024 23:17:46.740] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/54431, l='ServerLevel[world]', x=102.58, y=161.01, z=-2769.57] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 23:18:16.542] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/50202, l='ServerLevel[world]', x=124.40, y=161.01, z=-2775.40] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 23:18:30.593] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/50203, l='ServerLevel[world]', x=129.03, y=161.01, z=-2776.09] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 23:18:41.252] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cpicoy[/127.112.140.175:52449] logged in with entity id 62059 at (-278.1532482886269, 93.08861978357656, -1874.1129563252387)
+[13Dec2024 23:18:41.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cpicoy joined the game
+[13Dec2024 23:19:07.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wizzel was slain by Spider
+[13Dec2024 23:19:09.383] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/50885, l='ServerLevel[world]', x=95.48, y=161.01, z=-2775.30] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 23:19:10.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr.C4BO has made the advancement [First Village]
+[13Dec2024 23:19:16.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cpicoy: Teleported Cpicoy to tuforwi]
+[13Dec2024 23:19:16.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cpicoy has made the advancement [Super Creeps]
+[13Dec2024 23:19:17.046] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-75, y=70, z=-51}
+[13Dec2024 23:19:17.096] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-76, y=70, z=-52}
+[13Dec2024 23:19:17.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-75, y=69, z=-52}
+[13Dec2024 23:19:17.769] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/61849, l='ServerLevel[world]', x=97.77, y=161.01, z=-2781.75] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 23:19:18.478] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/50201, l='ServerLevel[world]', x=128.48, y=161.01, z=-2777.64] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 23:20:21.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cpicoy: Teleported wizzel to Cpicoy]
+[13Dec2024 23:21:29.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wizzel hit the ground too hard whilst trying to escape Dinnerbone
+[13Dec2024 23:21:32.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-60, y=63, z=-67}
+[13Dec2024 23:21:34.145] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/60515, l='ServerLevel[world]', x=125.92, y=161.01, z=-2780.66] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 23:21:37.693] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/58065, l='ServerLevel[world]', x=211.17, y=62.22, z=1381.15] died, message: 'Fisherman was slain by Anglerfish'
+[13Dec2024 23:21:53.100] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/54317, l='ServerLevel[world]', x=126.74, y=161.01, z=-2777.43] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 23:21:54.252] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/54316, l='ServerLevel[world]', x=125.64, y=161.01, z=-2776.40] died: Dinnerbone was slain by tuforwi
+[13Dec2024 23:22:04.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey drowned
+[13Dec2024 23:22:07.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cpicoy: Teleported wizzel to Cpicoy]
+[13Dec2024 23:22:08.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wizzel> TP
+[13Dec2024 23:22:12.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of Cpicoy) moved too quickly! -9.020771524836476,3.359999895095825,4.339338911624054
+[13Dec2024 23:22:12.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of Cpicoy) moved too quickly! -10.01195552147135,3.7799998819828033,5.227372307945643
+[13Dec2024 23:22:12.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of Cpicoy) moved too quickly! -10.985566419875653,4.1999998688697815,6.165508773906822
+[13Dec2024 23:22:12.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of Cpicoy) moved too quickly! -11.988902445799113,4.61999985575676,7.107819546871269
+[13Dec2024 23:22:12.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of Cpicoy) moved too quickly! -12.998435965603278,5.039999842643738,7.99102969618707
+[13Dec2024 23:22:12.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of Cpicoy) moved too quickly! -14.017529622157682,5.459999829530716,8.808589682415004
+[13Dec2024 23:22:12.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of Cpicoy) moved too quickly! -15.047001307475668,5.879999816417694,9.558933327934028
+[13Dec2024 23:22:12.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of Cpicoy) moved too quickly! -16.087302081860628,6.299999803304672,10.236398561516125
+[13Dec2024 23:22:12.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of Cpicoy) moved too quickly! -17.13730674184761,6.71999979019165,10.832968228316986
+[13Dec2024 23:22:12.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of Cpicoy) moved too quickly! -18.192665470715724,7.1399997770786285,11.335771157293493
+[13Dec2024 23:22:12.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of Cpicoy) moved too quickly! -19.29496856695927,7.559999763965607,11.725450848855417
+[13Dec2024 23:22:12.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of Cpicoy) moved too quickly! -12.43312906944891,5.039999842643738,8.483705132653995
+[13Dec2024 23:22:12.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of Cpicoy) moved too quickly! -13.587565581337785,5.459999829530716,8.627858159645712
+[13Dec2024 23:22:12.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of Cpicoy) moved too quickly! -14.726840980933318,5.879999816417694,8.624628279846547
+[13Dec2024 23:22:47.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cpicoy: Teleported wizzel to Cpicoy]
+[13Dec2024 23:22:51.850] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/64965, l='ServerLevel[world]', x=120.67, y=161.01, z=-2774.84] died: Dinnerbone was slain by tuforwi
+[13Dec2024 23:23:00.872] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/65672, l='ServerLevel[world]', x=124.01, y=161.01, z=-2781.57] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 23:23:07.990] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-408, y=-34, z=27}
+[13Dec2024 23:23:21.131] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/65423, l='ServerLevel[world]', x=58.30, y=69.38, z=1161.30] died: Witch was slain by Pierooo
+[13Dec2024 23:23:22.773] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-138, y=-9, z=1350}
+[13Dec2024 23:23:22.773] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-137, y=-9, z=1350}
+[13Dec2024 23:23:24.959] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/65812, l='ServerLevel[world]', x=59.30, y=68.00, z=1174.30] died: Witch was slain by Pierooo
+[13Dec2024 23:23:51.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cpicoy has made the advancement [The One Who Knocks]
+[13Dec2024 23:24:00.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cpicoy has made the advancement [Amateur Archaeologist]
+[13Dec2024 23:24:23.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pierooo has made the advancement [You Are A Pirate]
+[13Dec2024 23:24:35.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cpicoy: Teleported Cpicoy to Pierooo]
+[13Dec2024 23:24:49.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cpicoy has made the advancement [You Are A Pirate]
+[13Dec2024 23:25:16.265] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/64280, l='ServerLevel[world]', x=121.17, y=161.01, z=-2774.84] died: Dinnerbone was slain by wizzel

@@ -47,6 +47,7 @@
       "minecraft:deep_cold_ocean": "2024-12-13 18:29:06 +0000",
       "minecraft:frozen_ocean": "2024-12-13 23:11:52 +0000",
       "minecraft:windswept_forest": "2024-12-13 00:49:13 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-13 23:14:34 +0000",
       "minecraft:ocean": "2024-12-13 18:12:18 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-13 18:19:13 +0000",
       "minecraft:snowy_beach": "2024-12-13 23:10:50 +0000",
@@ -766,7 +767,9 @@
       "mutton": "2024-12-13 00:38:11 +0000",
       "bread": "2024-12-13 00:39:16 +0000",
       "golden_apple": "2024-12-13 01:30:25 +0000",
-      "golden_carrot": "2024-12-13 18:35:36 +0000"
+      "salmon": "2024-12-13 23:17:29 +0000",
+      "golden_carrot": "2024-12-13 18:35:36 +0000",
+      "cod": "2024-12-13 23:18:09 +0000"
     },
     "done": false
   },
@@ -2546,9 +2549,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-13 23:17:09 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2024-12-13 23:14:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-13 23:17:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-13 23:17:02 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2024-12-13 23:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-13 23:17:09 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2024-12-13 23:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-13 23:17:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-13 23:17:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-13 23:17:09 +0000"
     },
     "done": true
   },
