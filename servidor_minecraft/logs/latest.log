@@ -1,23 +1,23 @@
-[13Dec2024 19:38:12.444] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[13Dec2024 19:38:12.449] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[13Dec2024 19:38:13.182] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[13Dec2024 19:38:13.251] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[13Dec2024 19:38:13.902] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[13Dec2024 19:38:13.907] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[13Dec2024 19:38:13.915] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[13Dec2024 19:38:13.917] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[13Dec2024 19:38:14.396] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
-[13Dec2024 19:38:18.414] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[13Dec2024 19:38:18.618] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[13Dec2024 19:38:18.715] [main/WARN] [mixin/]: Reference map 'morevillagers-forge-forge-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Dec2024 19:38:18.980] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Dec2024 19:38:22.452] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[13Dec2024 19:38:26.015] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin::handler$zfh000$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[13Dec2024 19:38:28.254] [main/WARN] [mixin/]: Method overwrite conflict for setBlockState in the_bumblezone-common.mixins.json:blocks.FallingBlockEntityAccessor, previously written by com.github.alexmodguy.alexscaves.mixin.FallingBlockEntityMixin. Skipping method.
-[13Dec2024 19:38:35.347] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[13Dec2024 22:11:55.049] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[13Dec2024 22:11:55.052] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[13Dec2024 22:11:55.854] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[13Dec2024 22:11:55.934] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[13Dec2024 22:11:56.288] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[13Dec2024 22:11:56.290] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Dec2024 22:11:56.291] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Dec2024 22:11:56.292] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Dec2024 22:11:56.456] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
+[13Dec2024 22:11:58.662] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[13Dec2024 22:11:58.743] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[13Dec2024 22:11:58.779] [main/WARN] [mixin/]: Reference map 'morevillagers-forge-forge-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Dec2024 22:11:58.895] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Dec2024 22:12:00.348] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[13Dec2024 22:12:01.889] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin::handler$zfh000$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[13Dec2024 22:12:03.327] [main/WARN] [mixin/]: Method overwrite conflict for setBlockState in the_bumblezone-common.mixins.json:blocks.FallingBlockEntityAccessor, previously written by com.github.alexmodguy.alexscaves.mixin.FallingBlockEntityMixin. Skipping method.
+[13Dec2024 22:12:07.185] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[13Dec2024 19:38:36.589] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@4f1fb828 on thread Thread[#28,modloading-worker-0,5,main]
-[13Dec2024 19:38:36.592] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[13Dec2024 22:12:07.753] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@4f1fb828 on thread Thread[#32,modloading-worker-0,5,main]
+[13Dec2024 22:12:07.756] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
@@ -61,23 +61,23 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[13Dec2024 19:38:36.609] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
-[13Dec2024 19:38:37.950] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[13Dec2024 19:38:37.951] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[13Dec2024 19:38:37.954] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[13Dec2024 19:38:37.956] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[13Dec2024 19:38:37.960] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[13Dec2024 19:38:37.962] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[13Dec2024 19:38:37.964] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[13Dec2024 19:38:37.965] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[13Dec2024 19:38:38.402] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
-[13Dec2024 19:38:38.917] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[13Dec2024 19:38:38.918] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[13Dec2024 19:38:39.264] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[13Dec2024 19:38:45.829] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[13Dec2024 19:38:47.433] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[13Dec2024 19:38:47.578] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
-[13Dec2024 19:38:47.861] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[13Dec2024 22:12:07.764] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[13Dec2024 22:12:08.381] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[13Dec2024 22:12:08.382] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[13Dec2024 22:12:08.385] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[13Dec2024 22:12:08.386] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[13Dec2024 22:12:08.387] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[13Dec2024 22:12:08.388] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[13Dec2024 22:12:08.389] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[13Dec2024 22:12:08.391] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[13Dec2024 22:12:08.548] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[13Dec2024 22:12:08.674] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[13Dec2024 22:12:08.674] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[13Dec2024 22:12:08.782] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[13Dec2024 22:12:12.199] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[13Dec2024 22:12:12.577] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[13Dec2024 22:12:12.754] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[13Dec2024 22:12:13.047] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -92,26 +92,26 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[13Dec2024 19:38:47.862] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[13Dec2024 19:38:47.973] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:unlock_tracker for minecraft:player
-[13Dec2024 19:38:47.981] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:trader_pickpocketing for minecraft:wandering_trader
-[13Dec2024 19:38:48.128] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.11 Target: 1.9.12
-[13Dec2024 19:38:48.130] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crittersandcompanions] Starting version check at https://api.modrinth.com/updates/critters-and-companions/forge_updates.json
-[13Dec2024 19:38:48.154] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[13Dec2024 19:38:48.156] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[13Dec2024 19:38:48.159] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[13Dec2024 19:38:48.159] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[13Dec2024 19:38:48.283] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crittersandcompanions] Found status: UP_TO_DATE Current: 2.2.2 Target: null
-[13Dec2024 19:38:48.284] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [backpacked] Starting version check at https://mrcrayfish.com/modupdatejson?id=backpacked
-[13Dec2024 19:38:48.796] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [backpacked] Found status: BETA Current: 3.0.0-beta.9 Target: 3.0.0-beta.9
-[13Dec2024 19:38:48.797] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[13Dec2024 19:38:49.142] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[13Dec2024 19:38:49.143] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[13Dec2024 19:38:49.242] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[13Dec2024 19:38:49.243] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
-[13Dec2024 19:38:50.329] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: UP_TO_DATE Current: 1.20.1-1.0.9 Target: null
-[13Dec2024 19:38:50.330] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
-[13Dec2024 19:38:50.340] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[13Dec2024 22:12:13.048] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[13Dec2024 22:12:13.107] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:unlock_tracker for minecraft:player
+[13Dec2024 22:12:13.107] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:trader_pickpocketing for minecraft:wandering_trader
+[13Dec2024 22:12:13.183] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[13Dec2024 22:12:13.184] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[13Dec2024 22:12:13.185] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[13Dec2024 22:12:13.185] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[13Dec2024 22:12:13.193] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.11 Target: 1.9.12
+[13Dec2024 22:12:13.195] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crittersandcompanions] Starting version check at https://api.modrinth.com/updates/critters-and-companions/forge_updates.json
+[13Dec2024 22:12:13.390] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crittersandcompanions] Found status: UP_TO_DATE Current: 2.2.2 Target: null
+[13Dec2024 22:12:13.390] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [backpacked] Starting version check at https://mrcrayfish.com/modupdatejson?id=backpacked
+[13Dec2024 22:12:13.931] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [backpacked] Found status: BETA Current: 3.0.0-beta.9 Target: 3.0.0-beta.9
+[13Dec2024 22:12:13.931] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[13Dec2024 22:12:14.294] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[13Dec2024 22:12:14.294] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[13Dec2024 22:12:14.378] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[13Dec2024 22:12:14.379] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
+[13Dec2024 22:12:15.471] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: UP_TO_DATE Current: 1.20.1-1.0.9 Target: null
+[13Dec2024 22:12:15.472] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[13Dec2024 22:12:15.483] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -126,13 +126,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[13Dec2024 19:38:53.025] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13Dec2024 19:38:56.693] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23169!/assets/.mcassetsroot' uses unexpected schema
-[13Dec2024 19:38:56.694] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23169!/data/.mcassetsroot' uses unexpected schema
-[13Dec2024 19:38:59.615] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[13Dec2024 19:38:59.830] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag unusualend:void_tracker_located as it is missing following references: unusualend:gloopy_citadel (from unusualend-2.2.3-forge-1.20.1.jar)
-[13Dec2024 19:38:59.831] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:void_tracker_located as it is missing following references: unusualend:gloopy_citadel (from unusualend-2.2.3-forge-1.20.1.jar)
-[13Dec2024 19:39:02.340] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe taxov:x_trim_smithing_template_smithing_trim
+[13Dec2024 22:12:15.992] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13Dec2024 22:12:17.949] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23169!/assets/.mcassetsroot' uses unexpected schema
+[13Dec2024 22:12:17.950] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23169!/data/.mcassetsroot' uses unexpected schema
+[13Dec2024 22:12:19.345] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[13Dec2024 22:12:19.425] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag unusualend:void_tracker_located as it is missing following references: unusualend:gloopy_citadel (from unusualend-2.2.3-forge-1.20.1.jar)
+[13Dec2024 22:12:19.425] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:void_tracker_located as it is missing following references: unusualend:gloopy_citadel (from unusualend-2.2.3-forge-1.20.1.jar)
+[13Dec2024 22:12:20.362] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe taxov:x_trim_smithing_template_smithing_trim
 com.google.gson.JsonSyntaxException: Unknown item 'taxov:pirate_block'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -168,119 +168,155 @@ com.google.gson.JsonSyntaxException: Unknown item 'taxov:pirate_block'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[13Dec2024 19:39:02.431] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
-[13Dec2024 19:39:02.818] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2622 advancements
-[13Dec2024 19:39:02.847] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[13Dec2024 19:39:02.859] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[13Dec2024 19:39:02.911] [main/INFO] [Dungeon Crawl/]: Loading data...
-[13Dec2024 19:39:03.412] [main/INFO] [Dungeon Crawl/]: Done.
-[13Dec2024 19:39:05.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[13Dec2024 19:39:05.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[13Dec2024 19:39:05.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[13Dec2024 19:39:05.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[13Dec2024 19:39:06.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[13Dec2024 19:39:06.184] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[13Dec2024 19:39:06.338] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13Dec2024 19:39:06.339] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[13Dec2024 19:39:06.340] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13Dec2024 19:39:06.340] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[13Dec2024 19:39:06.615] [Server thread/INFO] [Framework/]: Loading server configs...
-[13Dec2024 19:39:06.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[13Dec2024 19:39:09.732] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[13Dec2024 19:39:19.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[13Dec2024 19:39:29.406] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 19:39:29.418] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 19:39:29.419] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 19:39:29.421] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 19:39:29.428] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 19:39:29.429] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 19:39:29.430] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 19:39:29.436] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 19:39:29.446] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 19:39:29.447] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 19:39:29.448] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 19:39:29.448] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 19:39:29.450] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 19:39:29.458] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 19:39:29.459] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 19:39:29.461] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 19:39:29.462] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 19:39:29.462] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 19:39:29.463] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 19:39:29.464] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 19:39:29.548] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 19:39:30.047] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 19:39:30.547] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 19:39:31.068] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 19:39:31.753] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 12207 ms
-[13Dec2024 19:39:31.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (25.388s)! For help, type "help"
-[13Dec2024 19:39:31.873] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[13Dec2024 19:39:45.597] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pierooo[/127.56.64.18:50955] logged in with entity id 65 at (-436.54857485422804, 15.0, 5691.300000011921)
-[13Dec2024 19:39:45.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pierooo joined the game
-[13Dec2024 19:39:51.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5711ms or 114 ticks behind
-[13Dec2024 19:40:13.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7430ms or 148 ticks behind
-[13Dec2024 19:40:51.428] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cpicoy[/127.112.140.175:55455] logged in with entity id 494 at (-462.30000001192093, 48.0, 3633.1213382185265)
-[13Dec2024 19:40:51.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cpicoy joined the game
-[13Dec2024 19:40:55.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3872ms or 77 ticks behind
-[13Dec2024 19:41:24.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14638ms or 292 ticks behind
-[13Dec2024 19:41:25.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Cpicoy a server operator
-[13Dec2024 19:41:39.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cpicoy: Set own game mode to Spectator Mode]
-[13Dec2024 19:41:48.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cpicoy: Teleported Cpicoy to Pierooo]
-[13Dec2024 19:42:12.267] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wizzel[/127.111.206.36:47467] logged in with entity id 1315 at (-347.6404005055368, 76.17675927506424, -1807.4104899997626)
-[13Dec2024 19:42:12.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wizzel joined the game
-[13Dec2024 19:42:15.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4012ms or 80 ticks behind
-[13Dec2024 19:42:15.599] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mosey[/127.96.34.32:58259] logged in with entity id 1327 at (1637.300000011921, 65.0, 6775.699999988079)
-[13Dec2024 19:42:15.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey joined the game
-[13Dec2024 19:42:36.907] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@40d4c57[id=<null>,name=dazzleryf,properties={},legacy=false] (/127.120.32.115:33197) lost connection: Disconnected
-[13Dec2024 19:42:45.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15210ms or 304 ticks behind
-[13Dec2024 19:42:47.077] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-136, y=-4, z=5832}
-[13Dec2024 19:42:52.261] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dazzleryf[/127.120.32.115:34065] logged in with entity id 1962 at (-353.556577275111, 80.0, -1777.375609927902)
-[13Dec2024 19:42:52.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dazzleryf joined the game
-[13Dec2024 19:43:02.351] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: DragonflyEntity['Dragonfly'/2000, l='ServerLevel[world]', x=-471.81, y=67.98, z=-1599.81]
-[13Dec2024 19:43:02.909] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: OtterEntity['Otter'/2005, l='ServerLevel[world]', x=-544.03, y=62.58, z=-1773.17]
-[13Dec2024 19:43:02.910] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: OtterEntity['Otter'/2006, l='ServerLevel[world]', x=-544.08, y=61.00, z=-1729.30]
-[13Dec2024 19:43:03.005] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: DragonflyEntity['Dragonfly'/2008, l='ServerLevel[world]', x=-544.04, y=64.98, z=-1889.69]
-[13Dec2024 19:43:03.006] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: DragonflyEntity['Dragonfly'/2009, l='ServerLevel[world]', x=-544.03, y=65.89, z=-1892.07]
-[13Dec2024 19:43:03.100] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: DragonflyEntity['Dragonfly'/2021, l='ServerLevel[world]', x=-546.94, y=65.95, z=-1850.23]
-[13Dec2024 19:43:10.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10052ms or 201 ticks behind
-[13Dec2024 19:43:19.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pierooo has made the advancement [Chest Slayer]
-[13Dec2024 19:43:31.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5449ms or 108 ticks behind
-[13Dec2024 19:43:44.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cpicoy: Teleported Cpicoy to dazzleryf]
-[13Dec2024 19:43:57.753] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11619ms or 232 ticks behind
-[13Dec2024 19:44:15.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cpicoy: Set own game mode to Creative Mode]
-[13Dec2024 19:44:25.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12471ms or 249 ticks behind
-[13Dec2024 19:44:44.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4593ms or 91 ticks behind
-[13Dec2024 19:45:17.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2153ms or 43 ticks behind
-[13Dec2024 19:45:56.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[13Dec2024 19:46:20.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8466ms or 169 ticks behind
-[13Dec2024 19:46:40.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
-[13Dec2024 19:46:58.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wizzel lost connection: Disconnected
-[13Dec2024 19:46:58.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wizzel left the game
-[13Dec2024 19:46:58.187] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[13Dec2024 19:46:59.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4477ms or 89 ticks behind
-[13Dec2024 19:47:03.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pierooo lost connection: Timed out
-[13Dec2024 19:47:03.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pierooo left the game
-[13Dec2024 19:47:03.620] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mosey lost connection: Timed out
-[13Dec2024 19:47:03.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey left the game
-[13Dec2024 19:47:07.907] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cpicoy lost connection: Timed out
-[13Dec2024 19:47:07.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cpicoy left the game
-[13Dec2024 19:47:07.943] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dazzleryf lost connection: Timed out
-[13Dec2024 19:47:07.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dazzleryf left the game
-[13Dec2024 19:47:08.046] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[13Dec2024 19:47:08.048] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[13Dec2024 19:47:31.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[13Dec2024 19:47:31.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[13Dec2024 19:47:31.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[13Dec2024 19:47:31.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[13Dec2024 19:47:31.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[13Dec2024 19:47:31.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[13Dec2024 19:47:31.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[13Dec2024 19:47:31.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
-[13Dec2024 19:47:31.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13Dec2024 19:47:31.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13Dec2024 19:47:31.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13Dec2024 19:47:31.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
-[13Dec2024 19:47:31.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[13Dec2024 19:47:31.875] [Server thread/INFO] [Framework/]: Unloading server configs...
-[13Dec2024 19:47:31.878] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
-[13Dec2024 19:47:31.879] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[13Dec2024 22:12:20.423] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[13Dec2024 22:12:20.634] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2622 advancements
+[13Dec2024 22:12:20.651] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[13Dec2024 22:12:20.656] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[13Dec2024 22:12:20.673] [main/INFO] [Dungeon Crawl/]: Loading data...
+[13Dec2024 22:12:20.978] [main/INFO] [Dungeon Crawl/]: Done.
+[13Dec2024 22:12:22.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[13Dec2024 22:12:22.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[13Dec2024 22:12:22.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[13Dec2024 22:12:22.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[13Dec2024 22:12:22.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[13Dec2024 22:12:22.569] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[13Dec2024 22:12:22.648] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13Dec2024 22:12:22.649] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[13Dec2024 22:12:22.649] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13Dec2024 22:12:22.649] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[13Dec2024 22:12:22.794] [Server thread/INFO] [Framework/]: Loading server configs...
+[13Dec2024 22:12:22.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[13Dec2024 22:12:27.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[13Dec2024 22:12:31.746] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 22:12:31.777] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 22:12:31.792] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 22:12:31.807] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 22:12:31.819] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 22:12:31.827] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 22:12:31.838] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 22:12:31.845] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 22:12:31.855] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 22:12:31.862] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 22:12:32.166] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[13Dec2024 22:12:32.665] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[13Dec2024 22:12:32.877] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5713 ms
+[13Dec2024 22:12:32.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.214s)! For help, type "help"
+[13Dec2024 22:12:33.002] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[13Dec2024 22:14:14.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wizzel[/127.111.206.36:39407] logged in with entity id 72 at (-241.54122687966841, 67.08095710321547, -1796.5567023629917)
+[13Dec2024 22:14:14.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wizzel joined the game
+[13Dec2024 22:14:16.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[13Dec2024 22:14:19.543] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cow['Cow'/293, l='ServerLevel[world]', x=-299.41, y=70.00, z=-1663.47]
+[13Dec2024 22:14:19.631] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: OtterEntity['Otter'/294, l='ServerLevel[world]', x=-351.24, y=62.70, z=-1654.34]
+[13Dec2024 22:14:22.621] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-75, y=-2, z=-1939}
+[13Dec2024 22:14:22.621] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-75, y=-2, z=-1938}
+[13Dec2024 22:14:24.813] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySeagull['Seagull'/372, l='ServerLevel[world]', x=-118.69, y=68.82, z=-1624.76]
+[13Dec2024 22:14:28.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.9509564004858667
+[13Dec2024 22:14:28.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.2758382404091435
+[13Dec2024 22:14:28.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.5117299544799323
+[13Dec2024 22:14:31.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.6854439141736748
+[13Dec2024 22:14:31.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.7376552005443955
+[13Dec2024 22:14:31.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.9861163952252809
+[13Dec2024 22:14:31.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.3395870030417427
+[13Dec2024 22:14:31.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.7492460541654964
+[13Dec2024 22:14:31.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.5707897535144184
+[13Dec2024 22:14:32.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.8926877011836041
+[13Dec2024 22:14:32.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.2662746116016024
+[13Dec2024 22:14:32.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.4463949526409579
+[13Dec2024 22:14:35.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved too quickly! 9.063689620584086,1.0,4.451936134445532
+[13Dec2024 22:14:35.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.5355439685160945
+[13Dec2024 22:14:35.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.53581591791135
+[13Dec2024 22:14:35.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.5089478695651906
+[13Dec2024 22:14:35.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.486771859573082
+[13Dec2024 22:14:35.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.5600838822904279
+[13Dec2024 22:14:35.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.6844896474847246
+[13Dec2024 22:14:35.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.4072653179994177
+[13Dec2024 22:14:35.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.9480518558441986
+[13Dec2024 22:14:36.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.5110617545512923
+[13Dec2024 22:14:36.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.9881105755758028
+[13Dec2024 22:14:36.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.8047019614478188
+[13Dec2024 22:14:36.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.925655821500106
+[13Dec2024 22:14:36.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.280664496656982
+[13Dec2024 22:14:36.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.5460158121536551
+[13Dec2024 22:14:36.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.8095117087837025
+[13Dec2024 22:14:36.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 3.05757399240656
+[13Dec2024 22:14:36.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.2504012883143787
+[13Dec2024 22:14:36.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.3544333649572309
+[13Dec2024 22:14:36.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 2.454486001631949
+[13Dec2024 22:14:40.099] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: OtterEntity['Otter'/529, l='ServerLevel[world]', x=-495.50, y=63.00, z=-1805.26]
+[13Dec2024 22:14:56.630] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-271, y=-47, z=-2087}
+[13Dec2024 22:16:07.307] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: DragonflyEntity['Dragonfly'/1441, l='ServerLevel[world]', x=-493.00, y=66.96, z=-1521.72]
+[13Dec2024 22:16:51.099] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-604, y=22, z=-1432}
+[13Dec2024 22:17:03.089] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-652, y=-11, z=-1540}
+[13Dec2024 22:17:03.090] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-653, y=-11, z=-1540}
+[13Dec2024 22:18:54.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wizzel has made the advancement [Let's Get To Work]
+[13Dec2024 22:19:30.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.6071778876944762
+[13Dec2024 22:19:30.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.9778939499189532
+[13Dec2024 22:19:30.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.523653432841632
+[13Dec2024 22:19:30.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.2697470195951506
+[13Dec2024 22:19:30.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.2823669062604601
+[13Dec2024 22:19:30.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.289122802077626
+[13Dec2024 22:19:30.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.2925864884449156
+[13Dec2024 22:19:30.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.2526451902283995
+[13Dec2024 22:19:30.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.295435645091179
+[13Dec2024 22:19:30.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.257510357808473
+[13Dec2024 22:19:30.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 2.1185250045409267
+[13Dec2024 22:19:30.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.29522252840678
+[13Dec2024 22:19:30.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.2781330381114637
+[13Dec2024 22:19:30.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.2514566974047043
+[13Dec2024 22:19:30.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.2262424991559213
+[13Dec2024 22:19:30.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.2343220482677244
+[13Dec2024 22:19:31.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.47216526146940335
+[13Dec2024 22:19:31.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.2528631750712045
+[13Dec2024 22:19:31.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.2574735600841171
+[13Dec2024 22:19:31.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.2600858616389479
+[13Dec2024 22:19:31.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.2615249853547237
+[13Dec2024 22:19:31.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.2623068202902759
+[13Dec2024 22:19:31.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.2628415761444007
+[13Dec2024 22:19:31.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.2632870567205106
+[13Dec2024 22:19:31.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.5337679451705499
+[13Dec2024 22:19:31.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.2489411074526924
+[13Dec2024 22:19:31.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.2756613322658605
+[13Dec2024 22:19:31.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.7544193097097822
+[13Dec2024 22:19:31.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.2542530774579785
+[13Dec2024 22:19:31.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.5828896545149915
+[13Dec2024 22:19:31.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.0582935825951003
+[13Dec2024 22:19:45.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.6401079292468239
+[13Dec2024 22:19:46.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 2.0983337130710424
+[13Dec2024 22:19:46.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 3.5566161275683044
+[13Dec2024 22:19:52.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.8006138833195706
+[13Dec2024 22:19:52.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 2.081566240978418
+[13Dec2024 22:19:52.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 3.3126834045072684
+[13Dec2024 22:20:20.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.7469063290873237
+[13Dec2024 22:20:20.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.0
+[13Dec2024 22:20:20.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.190814283931104
+[13Dec2024 22:25:37.308] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/7664, l='ServerLevel[world]', x=-483.51, y=67.00, z=-2771.08] died: Witch was slain by wizzel
+[13Dec2024 22:25:55.903] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/7665, l='ServerLevel[world]', x=-481.20, y=64.50, z=-2770.89] died: Witch was slain by wizzel
+[13Dec2024 22:28:29.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wizzel has made the advancement [Super Creeps]
+[13Dec2024 22:28:53.571] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wizzel lost connection: Disconnected
+[13Dec2024 22:28:53.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wizzel left the game
+[13Dec2024 22:29:52.900] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sr.C4BO[/127.124.44.28:56103] logged in with entity id 11001 at (159.8416524481428, 120.0, -445.3348022813794)
+[13Dec2024 22:29:52.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr.C4BO joined the game
+[13Dec2024 22:30:01.635] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=279, y=-22, z=-564}
+[13Dec2024 22:30:01.637] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=280, y=-22, z=-564}
+[13Dec2024 22:30:07.087] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=327, y=-4, z=-410}
+[13Dec2024 22:30:07.088] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=325, y=-4, z=-410}
+[13Dec2024 22:31:12.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr.C4BO has made the advancement [Cover Me with Diamonds]
+[13Dec2024 22:32:45.377] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=214, y=2, z=-721}
+[13Dec2024 22:36:42.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sr.C4BO lost connection: Disconnected
+[13Dec2024 22:36:42.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr.C4BO left the game
+[13Dec2024 22:37:06.025] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sr.C4BO[/127.124.44.28:44839] logged in with entity id 14419 at (79.29704460438421, 62.38515003740974, -536.3693431193448)
+[13Dec2024 22:37:06.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr.C4BO joined the game
+[13Dec2024 22:37:24.429] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wizzel[/127.111.206.36:53321] logged in with entity id 14724 at (113.02955262976144, 197.3, -2769.1885539665486)
+[13Dec2024 22:37:24.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wizzel joined the game
+[13Dec2024 22:38:04.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.1763302474901138
+[13Dec2024 22:38:04.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 3.4364097946991023
+[13Dec2024 22:38:04.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 2.200000047683716
+[13Dec2024 22:38:04.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 2.200000047683716
+[13Dec2024 22:38:04.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 2.200000047683716
+[13Dec2024 22:38:04.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 2.200000047683716
+[13Dec2024 22:38:25.641] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/14497, l='ServerLevel[world]', x=62.70, y=65.88, z=-566.70] died: Witch was slain by Sr.C4BO
+[13Dec2024 22:38:36.332] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/14469, l='ServerLevel[world]', x=61.70, y=64.50, z=-551.80] died: Witch was slain by Sr.C4BO
+[13Dec2024 22:38:51.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.0964140589176168
+[13Dec2024 22:38:51.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.5347260545236168
+[13Dec2024 22:38:51.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.999349241247728
+[13Dec2024 22:39:32.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr.C4BO was doomed to fall

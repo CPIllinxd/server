@@ -2433,5 +2433,11 @@
     },
     "done": false
   },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_tremorsaurus": "2024-12-13 20:47:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
