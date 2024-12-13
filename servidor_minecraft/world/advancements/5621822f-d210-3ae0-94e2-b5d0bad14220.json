@@ -31,12 +31,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2024-12-13 22:49:03 +0000",
       "minecraft:beach": "2024-12-13 04:36:09 +0000",
       "minecraft:river": "2024-12-13 04:37:44 +0000",
       "minecraft:lukewarm_ocean": "2024-12-13 22:33:04 +0000",
       "minecraft:stony_shore": "2024-12-13 05:15:11 +0000",
       "minecraft:dripstone_caves": "2024-12-13 04:40:14 +0000",
       "minecraft:forest": "2024-12-13 04:37:58 +0000",
+      "minecraft:ocean": "2024-12-13 22:47:59 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-13 22:48:38 +0000",
       "minecraft:savanna": "2024-12-13 04:30:07 +0000",
       "minecraft:plains": "2024-12-13 04:52:43 +0000"
     },
@@ -666,6 +669,7 @@
       "cooked_beef": "2024-12-13 05:06:30 +0000",
       "beetroot_soup": "2024-12-13 05:22:48 +0000",
       "apple": "2024-12-13 05:25:24 +0000",
+      "cooked_cod": "2024-12-13 22:48:28 +0000",
       "pumpkin_pie": "2024-12-13 22:33:58 +0000",
       "bread": "2024-12-13 22:42:16 +0000",
       "rotten_flesh": "2024-12-13 05:16:48 +0000",
@@ -1568,7 +1572,8 @@
       "minecraft:spider": "2024-12-13 05:04:46 +0000",
       "minecraft:creeper": "2024-12-13 04:51:32 +0000",
       "minecraft:witch": "2024-12-13 22:38:25 +0000",
-      "minecraft:zombie": "2024-12-13 04:53:12 +0000"
+      "minecraft:zombie": "2024-12-13 04:53:12 +0000",
+      "minecraft:zombie_villager": "2024-12-13 22:43:20 +0000"
     },
     "done": false
   },
@@ -1803,6 +1808,114 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2024-12-13 22:31:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 22:47:49 +0000"
+    },
+    "done": true
+  },
+  "taxov:advancement_pirate": {
+    "criteria": {
+      "advancement_pirate_0": "2024-12-13 22:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-13 22:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 22:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 22:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 22:47:49 +0000"
+    },
+    "done": true
+  },
+  "taxov:advancement_marine_armor": {
+    "criteria": {
+      "advancement_marine_armor_0": "2024-12-13 22:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 22:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 22:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 22:47:49 +0000"
+    },
+    "done": true
+  },
+  "taxov:advancement_marine_tool": {
+    "criteria": {
+      "advancement_marine_tool_0": "2024-12-13 22:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 22:47:49 +0000"
+    },
+    "done": true
+  },
+  "taxov:advancement_pirate_tool": {
+    "criteria": {
+      "advancement_pirate_tool_0": "2024-12-13 22:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-13 22:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2024-12-13 22:44:11 +0000"
+    },
+    "done": true
+  },
+  "taxov:advancement_marine": {
+    "criteria": {
+      "advancement_marine_0": "2024-12-13 22:47:59 +0000"
+    },
+    "done": true
+  },
+  "taxov:advancement_pirate_armor": {
+    "criteria": {
+      "advancement_pirate_armor_0": "2024-12-13 22:47:59 +0000"
+    },
+    "done": true
+  },
+  "taxov:advancement_ocean": {
+    "criteria": {
+      "advancement_ocean_0": "2024-12-13 22:47:59 +0000"
     },
     "done": true
   },

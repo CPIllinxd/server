@@ -320,3 +320,44 @@ com.google.gson.JsonSyntaxException: Unknown item 'taxov:pirate_block'
 [13Dec2024 22:38:51.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.5347260545236168
 [13Dec2024 22:38:51.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.999349241247728
 [13Dec2024 22:39:32.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr.C4BO was doomed to fall
+[13Dec2024 22:43:20.881] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Sailor'/17470, l='ServerLevel[world]', x=187.50, y=67.50, z=-633.97] died: Sailor was slain by Sr.C4BO
+[13Dec2024 22:43:31.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Sailor'/16984, l='ServerLevel[world]', x=187.50, y=69.00, z=-630.27] died: Sailor was slain by Sr.C4BO
+[13Dec2024 22:43:32.930] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Sailor'/17468, l='ServerLevel[world]', x=187.36, y=69.00, z=-629.47] died: Sailor was slain by Sr.C4BO
+[13Dec2024 22:44:35.200] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pierooo[/127.56.64.18:55665] logged in with entity id 19680 at (-237.69999998807907, 7.0, 5961.435048467403)
+[13Dec2024 22:44:35.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pierooo joined the game
+[13Dec2024 22:44:38.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2930ms or 58 ticks behind
+[13Dec2024 22:44:40.400] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-183, y=30, z=5936}
+[13Dec2024 22:44:40.401] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-183, y=30, z=5938}
+[13Dec2024 22:44:47.847] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-353, y=-22, z=5988}
+[13Dec2024 22:44:54.241] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mosey[/127.96.34.32:55363] logged in with entity id 20090 at (-70.89857261000472, 71.0, -58.20964664161497)
+[13Dec2024 22:44:54.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey joined the game
+[13Dec2024 22:45:02.735] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-75, y=7, z=6113}
+[13Dec2024 22:45:03.044] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-284, y=-25, z=6121}
+[13Dec2024 22:45:05.896] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-414, y=-48, z=6025}
+[13Dec2024 22:45:12.201] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-21, y=-26, z=6011}
+[13Dec2024 22:45:16.373] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-428, y=13, z=6142}
+[13Dec2024 22:45:16.375] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-428, y=13, z=6144}
+[13Dec2024 22:45:16.719] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-424, y=-43, z=6072}
+[13Dec2024 22:45:16.720] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-424, y=-43, z=6071}
+[13Dec2024 22:45:24.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sr.C4BO> 210 100 -3000
+[13Dec2024 22:45:44.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-49, y=63, z=-84} BlockPos{x=-52, y=63, z=-78}
+[13Dec2024 22:45:44.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-49, y=63, z=-84} BlockPos{x=-52, y=63, z=-78}
+[13Dec2024 22:45:44.746] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-49, y=63, z=-84} BlockPos{x=-51, y=63, z=-77}
+[13Dec2024 22:45:45.155] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-49, y=63, z=-84} BlockPos{x=-50, y=63, z=-75}
+[13Dec2024 22:47:07.259] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-475, y=-41, z=6092}
+[13Dec2024 22:47:07.297] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-476, y=-2, z=5977}
+[13Dec2024 22:47:07.556] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-478, y=24, z=5887}
+[13Dec2024 22:47:28.341] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-171, y=20, z=-341}
+[13Dec2024 22:47:28.342] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-172, y=20, z=-341}
+[13Dec2024 22:47:59.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr.C4BO has made the advancement [Pirate]
+[13Dec2024 22:47:59.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr.C4BO has made the advancement [Ocean]
+[13Dec2024 22:47:59.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr.C4BO has made the advancement [Sailor]
+[13Dec2024 22:47:59.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr.C4BO has made the advancement [Pirate Armor]
+[13Dec2024 22:47:59.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr.C4BO has made the advancement [Marine Armor]
+[13Dec2024 22:47:59.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr.C4BO has made the advancement [Pirate Tools]
+[13Dec2024 22:47:59.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr.C4BO has made the advancement [Marine Tools]
+[13Dec2024 22:48:23.535] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-236, y=33, z=-480}
+[13Dec2024 22:48:23.536] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-235, y=33, z=-480}
+[13Dec2024 22:52:48.974] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-343, y=24, z=6181}
+[13Dec2024 22:53:32.326] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-332, y=-26, z=6213}
+[13Dec2024 22:53:32.326] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-333, y=-26, z=6213}
