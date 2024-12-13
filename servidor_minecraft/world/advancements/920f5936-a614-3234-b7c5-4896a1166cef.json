@@ -43,7 +43,9 @@
       "minecraft:swamp": "2024-12-13 00:54:36 +0000",
       "minecraft:cold_ocean": "2024-12-13 20:05:08 +0000",
       "minecraft:forest": "2024-12-13 00:17:43 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-13 23:24:51 +0000",
       "minecraft:ocean": "2024-12-13 20:02:39 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-13 23:27:09 +0000",
       "minecraft:deep_dark": "2024-12-13 19:59:23 +0000",
       "minecraft:meadow": "2024-12-13 19:58:59 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-13 00:53:40 +0000",
@@ -2205,9 +2207,54 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2024-12-13 23:24:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/hazmat_armor": {
+    "criteria": {
+      "shirt": "2024-12-13 23:23:47 +0000",
+      "pants": "2024-12-13 23:23:49 +0000",
+      "helmet": "2024-12-13 23:23:42 +0000",
+      "boots": "2024-12-13 23:23:51 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_infested_temple": {
     "criteria": {
       "location0": "2024-12-13 23:19:16 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2024-12-13 23:32:10 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-13 23:24:00 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/teleport_out_of_bumblezone": {
+    "criteria": {
+      "teleport_out_of_bumblezone": "2024-12-13 23:33:08 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "hive_pillar": "2024-12-13 23:32:46 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2024-12-13 23:32:40 +0000"
     },
     "done": true
   },

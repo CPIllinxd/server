@@ -45,6 +45,7 @@
       "minecraft:snowy_beach": "2024-12-13 22:28:06 +0000",
       "minecraft:flower_forest": "2024-12-13 04:36:52 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-13 02:50:08 +0000",
+      "minecraft:meadow": "2024-12-13 23:28:57 +0000",
       "minecraft:savanna": "2024-12-13 00:31:34 +0000",
       "minecraft:plains": "2024-12-13 00:37:11 +0000"
     },
@@ -1759,6 +1760,7 @@
       "minecraft:spider": "2024-12-13 01:28:18 +0000",
       "minecraft:creeper": "2024-12-13 04:54:07 +0000",
       "minecraft:witch": "2024-12-13 22:25:37 +0000",
+      "minecraft:wither_skeleton": "2024-12-13 23:28:30 +0000",
       "minecraft:zombie": "2024-12-13 01:34:00 +0000",
       "minecraft:zombie_villager": "2024-12-13 20:18:00 +0000"
     },
@@ -2377,6 +2379,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2024-12-13 23:42:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
       "has_smooth_quartz": "2024-12-13 22:47:22 +0000"
@@ -2446,6 +2454,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-12-13 23:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-13 23:26:40 +0000"
     },
     "done": true
   },
@@ -2527,6 +2541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-13 23:28:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-12-13 22:57:10 +0000"
@@ -2584,6 +2604,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2024-12-13 23:18:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-13 23:26:40 +0000"
     },
     "done": true
   },

@@ -542,3 +542,109 @@ com.google.gson.JsonSyntaxException: Unknown item 'taxov:pirate_block'
 [13Dec2024 23:24:35.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cpicoy: Teleported Cpicoy to Pierooo]
 [13Dec2024 23:24:49.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cpicoy has made the advancement [You Are A Pirate]
 [13Dec2024 23:25:16.265] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/64280, l='ServerLevel[world]', x=121.17, y=161.01, z=-2774.84] died: Dinnerbone was slain by wizzel
+[13Dec2024 23:25:40.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[13Dec2024 23:26:02.327] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Captain'/69292, l='ServerLevel[world]', x=17.29, y=64.00, z=937.48] died: Captain was slain by Pierooo
+[13Dec2024 23:26:05.343] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Crew'/69268, l='ServerLevel[world]', x=8.87, y=67.50, z=937.63] died: Crew was slain by Pierooo
+[13Dec2024 23:26:08.009] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tuforwi lost connection: Disconnected
+[13Dec2024 23:26:08.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tuforwi left the game
+[13Dec2024 23:26:14.331] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Crew'/69293, l='ServerLevel[world]', x=12.16, y=67.06, z=940.24] died: Crew was slain by Pierooo
+[13Dec2024 23:26:36.104] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-185, y=-13, z=741}
+[13Dec2024 23:26:36.105] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-183, y=-13, z=741}
+[13Dec2024 23:26:47.964] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-399, y=-35, z=-808}
+[13Dec2024 23:26:55.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cpicoy: Teleported Cpicoy to wizzel]
+[13Dec2024 23:27:08.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cpicoy: Teleported Cpicoy to Sr.C4BO]
+[13Dec2024 23:28:39.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cpicoy: Teleported Cpicoy to mosey]
+[13Dec2024 23:29:43.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cpicoy: Teleported wizzel to Cpicoy]
+[13Dec2024 23:30:16.656] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-133, y=-44, z=-1371}
+[13Dec2024 23:30:16.657] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-134, y=-44, z=-1371}
+[13Dec2024 23:31:27.161] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=80, y=30, z=-1634}
+[13Dec2024 23:31:55.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pierooo was killed by magic whilst trying to escape Pillager
+[13Dec2024 23:32:42.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2291ms or 45 ticks behind
+[13Dec2024 23:32:42.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wizzel moved too quickly! -0.0012614536434583101,-0.6044241013267069,-10.430838191520706
+[13Dec2024 23:32:50.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wizzel moved too quickly! -0.08231320111863027,0.42355929454303975,-10.256978684863498
+[13Dec2024 23:32:57.890] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=57, y=-44, z=412}
+[13Dec2024 23:33:08.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10295ms or 205 ticks behind
+[13Dec2024 23:33:42.333] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-155, y=-19, z=685}
+[13Dec2024 23:33:43.903] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-74, y=21, z=690}
+[13Dec2024 23:34:08.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey was slain by End Islands Enderman
+[13Dec2024 23:34:30.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cpicoy: Teleported mosey to Cpicoy]
+[13Dec2024 23:34:42.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr.C4BO was slain by Cave Centipede
+[13Dec2024 23:35:01.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr.C4BO was slain by Cave Centipede
+[13Dec2024 23:35:09.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr.C4BO was shot by Skeleton
+[13Dec2024 23:35:38.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey was slain by Tremorsaurus
+[13Dec2024 23:36:04.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cpicoy: Teleported mosey to Cpicoy]
+[13Dec2024 23:36:28.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey has made the advancement [Strictly Medicinal Purposes]
+[13Dec2024 23:36:37.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey has made the advancement [Law of Club and Fang]
+[13Dec2024 23:37:08.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey has made the advancement [Life Finds A Way]
+[13Dec2024 23:37:30.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey was slain by Tremorsaurus
+[13Dec2024 23:37:43.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cpicoy: Teleported mosey to Cpicoy]
+[13Dec2024 23:38:37.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cpicoy: Set own game mode to Survival Mode]
+[13Dec2024 23:39:59.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cpicoy: Set own game mode to Creative Mode]
+[13Dec2024 23:40:00.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey was slain by Tremorsaurus
+[13Dec2024 23:40:08.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cpicoy: Teleported mosey to Cpicoy]
+[13Dec2024 23:40:20.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved too quickly! 0.5311450372561808,-3.856062121481216,10.247552390534565
+[13Dec2024 23:40:20.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved too quickly! 0.5719261206017734,-4.559794171357282,11.077982230044654
+[13Dec2024 23:40:20.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved too quickly! 0.603851790261956,-5.312490446707798,11.88701556131491
+[13Dec2024 23:40:20.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved too quickly! 0.6278802017698979,-6.112211965119201,12.676967485987007
+[13Dec2024 23:40:20.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved too quickly! 0.6448658382547023,-6.95709652784528,13.449902611764173
+[13Dec2024 23:40:20.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved too quickly! 0.6555707277928491,-7.84535567917537,14.207662155849448
+[13Dec2024 23:40:20.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved too quickly! 0.6606744470425667,-8.775271786211505,14.951888115792372
+[13Dec2024 23:40:20.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved too quickly! 0.6607830424850931,-9.74519523428637,15.684044825048659
+[13Dec2024 23:40:20.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved too quickly! 0.1755011711161103,-7.550228504276646,7.012282921851693
+[13Dec2024 23:40:20.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved too quickly! 0.16709608991479286,-8.595476502409738,7.724077510030384
+[13Dec2024 23:40:50.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.9805451835068197
+[13Dec2024 23:40:54.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey was blown up by Luxtructosaurus
+[13Dec2024 23:41:24.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cpicoy: Teleported mosey to Cpicoy]
+[13Dec2024 23:41:55.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey was slain by Luxtructosaurus
+[13Dec2024 23:42:26.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr.C4BO has made the advancement [Alex's Caves]
+[13Dec2024 23:42:42.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr.C4BO has made the advancement [It Belongs in a Museum]
+[13Dec2024 23:42:43.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wizzel has made the advancement [Smoke On The Water]
+[13Dec2024 23:43:10.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[13Dec2024 23:43:38.695] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=204, y=-40, z=219}
+[13Dec2024 23:43:59.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cpicoy: Teleported mosey to Cpicoy]
+[13Dec2024 23:44:04.048] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=206, y=-51, z=205}
+[13Dec2024 23:44:11.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[13Dec2024 23:44:43.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey walked into fire whilst fighting Luxtructosaurus
+[13Dec2024 23:44:45.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pierooo has made the advancement [Cover Me with Diamonds]
+[13Dec2024 23:44:53.497] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-61, y=66, z=-53}
+[13Dec2024 23:44:53.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-60, y=66, z=-53}
+[13Dec2024 23:44:54.604] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-54, y=63, z=-57}
+[13Dec2024 23:44:54.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-54, y=63, z=-57}
+[13Dec2024 23:44:54.831] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-55, y=63, z=-57}
+[13Dec2024 23:44:54.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-55, y=63, z=-58}
+[13Dec2024 23:44:55.025] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-54, y=63, z=-58}
+[13Dec2024 23:44:55.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-54, y=63, z=-58}
+[13Dec2024 23:44:55.186] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-55, y=63, z=-59}
+[13Dec2024 23:44:55.278] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-54, y=63, z=-59}
+[13Dec2024 23:44:55.445] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-54, y=63, z=-60}
+[13Dec2024 23:44:55.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-54, y=63, z=-60}
+[13Dec2024 23:44:55.641] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-54, y=63, z=-61}
+[13Dec2024 23:44:55.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-54, y=63, z=-62}
+[13Dec2024 23:44:55.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-54, y=63, z=-62}
+[13Dec2024 23:44:55.882] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-54, y=63, z=-63}
+[13Dec2024 23:44:55.935] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-54, y=63, z=-63}
+[13Dec2024 23:44:55.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-55, y=63, z=-63}
+[13Dec2024 23:44:56.087] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-55, y=63, z=-64}
+[13Dec2024 23:44:56.183] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-54, y=63, z=-64}
+[13Dec2024 23:44:56.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-54, y=63, z=-64}
+[13Dec2024 23:44:56.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-54, y=63, z=-64}
+[13Dec2024 23:44:56.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-53, y=63, z=-64}
+[13Dec2024 23:44:56.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-52, y=63, z=-64}
+[13Dec2024 23:44:56.488] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-52, y=63, z=-65}
+[13Dec2024 23:44:56.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-52, y=63, z=-65}
+[13Dec2024 23:44:56.616] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-51, y=63, z=-66}
+[13Dec2024 23:44:56.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cpicoy: Teleported mosey to Cpicoy]
+[13Dec2024 23:45:15.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.4931697346792987
+[13Dec2024 23:45:15.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 0.964448289539547
+[13Dec2024 23:45:15.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.2166200479645823
+[13Dec2024 23:45:15.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golbez (vehicle of wizzel) moved wrongly! 1.351552128135367
+[13Dec2024 23:45:37.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cpicoy: Teleported mosey to Cpicoy]
+[13Dec2024 23:45:50.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey was slain by Luxtructosaurus
+[13Dec2024 23:45:56.757] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-73, y=72, z=-49}
+[13Dec2024 23:45:56.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-73, y=72, z=-49}
+[13Dec2024 23:45:56.996] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-75, y=73, z=-49}
+[13Dec2024 23:45:57.006] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-75, y=73, z=-49}
+[13Dec2024 23:45:57.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-75, y=73, z=-49}
+[13Dec2024 23:45:57.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-75, y=73, z=-48}
+[13Dec2024 23:45:57.707] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-75, y=73, z=-48}
+[13Dec2024 23:45:58.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-77, y=73, z=-47} BlockPos{x=-78, y=73, z=-48}

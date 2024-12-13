@@ -38,6 +38,7 @@
       "minecraft:windswept_hills": "2024-12-13 00:47:18 +0000",
       "minecraft:beach": "2024-12-13 05:00:30 +0000",
       "minecraft:river": "2024-12-13 00:35:02 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-13 23:26:42 +0000",
       "minecraft:snowy_plains": "2024-12-13 00:48:16 +0000",
       "minecraft:snowy_taiga": "2024-12-13 00:49:30 +0000",
       "minecraft:swamp": "2024-12-13 00:53:52 +0000",
@@ -47,6 +48,7 @@
       "minecraft:windswept_forest": "2024-12-13 00:49:08 +0000",
       "minecraft:ocean": "2024-12-13 18:02:07 +0000",
       "minecraft:windswept_savanna": "2024-12-13 18:01:10 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-13 23:26:55 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-13 00:37:33 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-13 00:41:19 +0000",
       "minecraft:savanna": "2024-12-13 00:29:05 +0000",
@@ -647,6 +649,7 @@
       "potato": "2024-12-13 05:20:41 +0000",
       "mutton": "2024-12-13 01:38:22 +0000",
       "bread": "2024-12-13 00:51:28 +0000",
+      "melon_slice": "2024-12-13 23:28:55 +0000",
       "golden_carrot": "2024-12-13 19:46:43 +0000"
     },
     "done": false
@@ -2411,6 +2414,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-13 23:28:14 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_tremorsaurus": "2024-12-13 23:37:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-13 22:46:33 +0000"
@@ -2420,6 +2435,12 @@
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2024-12-13 22:46:33 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/serene_salad": {
+    "criteria": {
+      "serene_salad": "2024-12-13 23:36:28 +0000"
     },
     "done": true
   },
@@ -2447,9 +2468,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-12-13 23:32:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-13 23:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-13 23:28:14 +0000"
     },
     "done": true
   },
@@ -2465,6 +2498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-13 23:28:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2024-12-13 22:46:33 +0000"
@@ -2474,6 +2513,18 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2024-12-13 22:45:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primitive_club": {
+    "criteria": {
+      "limestone": "2024-12-13 23:36:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-13 23:36:30 +0000"
     },
     "done": true
   },
