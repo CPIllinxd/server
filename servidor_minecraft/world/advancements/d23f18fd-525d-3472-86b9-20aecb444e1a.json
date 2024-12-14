@@ -649,6 +649,7 @@
       "potato": "2024-12-13 05:20:41 +0000",
       "mutton": "2024-12-13 01:38:22 +0000",
       "bread": "2024-12-13 00:51:28 +0000",
+      "golden_apple": "2024-12-14 00:21:59 +0000",
       "melon_slice": "2024-12-13 23:28:55 +0000",
       "golden_carrot": "2024-12-13 19:46:43 +0000"
     },
@@ -2460,6 +2461,12 @@
   "alexscaves:alexscaves/desolate_dagger": {
     "criteria": {
       "desolate_dagger": "2024-12-13 23:52:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-14 00:14:02 +0000"
     },
     "done": true
   },

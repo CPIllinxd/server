@@ -2282,6 +2282,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-14 00:21:30 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_infested_temple": {
     "criteria": {
       "location0": "2024-12-13 23:19:16 +0000"

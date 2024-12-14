@@ -2207,5 +2207,17 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2024-12-14 00:24:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_tremorsaurus": "2024-12-14 00:23:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

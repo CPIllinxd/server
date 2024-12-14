@@ -1578,6 +1578,7 @@
       "minecraft:spider": "2024-12-13 05:04:46 +0000",
       "minecraft:creeper": "2024-12-13 04:51:32 +0000",
       "minecraft:witch": "2024-12-13 22:38:25 +0000",
+      "minecraft:husk": "2024-12-14 00:17:49 +0000",
       "minecraft:zombie": "2024-12-13 04:53:12 +0000",
       "minecraft:zombie_villager": "2024-12-13 22:43:20 +0000"
     },
@@ -1883,6 +1884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-14 00:18:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-13 23:30:33 +0000"
@@ -1931,6 +1938,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-14 00:18:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-13 23:30:33 +0000"
@@ -1972,6 +1985,12 @@
       "taiga": "2024-12-13 23:19:10 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-14 00:17:36 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
@@ -2426,6 +2445,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-13 23:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2024-12-14 00:17:36 +0000"
     },
     "done": true
   },
