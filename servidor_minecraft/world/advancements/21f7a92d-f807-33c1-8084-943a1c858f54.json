@@ -1435,6 +1435,7 @@
       "minecraft:vindicator": "2024-12-13 01:00:29 +0000",
       "minecraft:spider": "2024-12-13 01:25:15 +0000",
       "minecraft:creeper": "2024-12-13 01:21:33 +0000",
+      "minecraft:phantom": "2024-12-14 00:11:11 +0000",
       "minecraft:witch": "2024-12-13 18:16:06 +0000",
       "minecraft:husk": "2024-12-13 18:36:09 +0000",
       "minecraft:cave_spider": "2024-12-13 19:02:39 +0000",
@@ -2697,6 +2698,12 @@
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2024-12-13 23:08:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2024-12-14 00:06:38 +0000"
     },
     "done": true
   },

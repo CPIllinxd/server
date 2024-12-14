@@ -2207,6 +2207,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_luxtructosaurus": {
+    "criteria": {
+      "killed": "2024-12-14 00:09:43 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location0": "2024-12-13 23:24:49 +0000"

@@ -1696,7 +1696,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-13 18:10:56 +0000",
-      "minecraft:spider": "2024-12-13 01:47:48 +0000"
+      "minecraft:spider": "2024-12-13 01:47:48 +0000",
+      "minecraft:zombie": "2024-12-14 00:06:07 +0000"
     },
     "done": false
   },
@@ -2514,6 +2515,12 @@
     "criteria": {
       "helmet": "2024-12-13 23:52:50 +0000",
       "tunic": "2024-12-13 23:52:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2024-12-14 00:07:03 +0000"
     },
     "done": true
   },
