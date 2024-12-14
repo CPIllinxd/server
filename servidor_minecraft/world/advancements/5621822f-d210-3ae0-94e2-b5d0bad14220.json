@@ -677,6 +677,7 @@
       "cooked_cod": "2024-12-13 22:48:28 +0000",
       "pumpkin_pie": "2024-12-13 22:33:58 +0000",
       "bread": "2024-12-13 22:42:16 +0000",
+      "golden_apple": "2024-12-13 23:54:46 +0000",
       "rotten_flesh": "2024-12-13 05:16:48 +0000",
       "melon_slice": "2024-12-13 05:15:25 +0000",
       "golden_carrot": "2024-12-13 22:39:02 +0000"
@@ -2002,6 +2003,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-13 23:56:51 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2024-12-13 23:42:42 +0000"
@@ -2302,9 +2309,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-13 23:46:12 +0000"
+    },
+    "done": true
+  },
   "taxov:advancement_pirate_armor": {
     "criteria": {
       "advancement_pirate_armor_0": "2024-12-13 22:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-13 23:46:12 +0000"
     },
     "done": true
   },
